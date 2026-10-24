@@ -1,16 +1,83 @@
-## Hi there 👋
+# `patatoish` — Boran
 
-<!--
-**patatoish/patatoish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=boran&fontSize=75&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&color=0:090909,100:242424" width="100%" alt="Boran — developer profile banner" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/patatoish">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=building+things+that+should+exist;open-source+%7C+developer+tools+%7C+backend;learning%2C+building%2C+breaking%2C+repeating" alt="Typing animation" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/patatoish?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181818?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <a href="https://github.com/patatoish?tab=followers"><img src="https://img.shields.io/github/followers/patatoish?style=for-the-badge&color=181818&labelColor=181818&logo=github&logoColor=white" alt="Followers" /></a>
+  <a href="https://github.com/patatoish?tab=stars"><img src="https://img.shields.io/github/stars/patatoish?style=for-the-badge&color=181818&labelColor=181818&logo=github&logoColor=white" alt="Stars" /></a>
+</p>
+
+---
+
+### `whoami`
+
+I'm Boran, a developer interested in building useful software, exploring new technologies, and contributing to open source.
+
+- ⚙️ Interested in developer tools, backend systems, and AI.
+- 🦀 Exploring Rust and systems programming.
+- 🌐 Building web applications and experimenting with different stacks.
+- 🤝 Interested in meaningful open-source contributions.
+- 🐈 Probably getting distracted by a cat.
+
+> I like figuring out how things work, then building my own version.
+
+### `tech stack`
+
+**Languages & technologies I work with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,kotlin,go,html,css&theme=dark" alt="Rust, TypeScript, JavaScript, Python, Kotlin, Go, HTML and CSS" />
+</p>
+
+**Tools & environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs,sqlite&theme=dark" alt="Git, GitHub, VS Code, Linux, Node.js, React, Next.js and SQLite" />
+</p>
+
+### `featured projects`
+
+| Project | What it is |
+|---|---|
+| [GeoSurfaceTester](https://github.com/patatoish/GeoSurfaceTester) | A location-related Android project |
+| [WhereAmI](https://github.com/patatoish/WhereAmI) | An Android location project |
+| [Crimson](https://github.com/patatoish/Crimson) | A Roblox bootstrap focused on performance and low input latency |
+| [BitlockerTimer](https://github.com/patatoish/BitlockerTimer) | A lightweight BitLocker encryption/decryption tracker |
+| [freedm](https://github.com/patatoish/freedm) | A VS Code-based project |
+
+<p align="center">
+  <a href="https://github.com/patatoish?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+</p>
+
+### `github stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patatoish&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatoish&layout=compact&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" alt="Most used programming languages" />
+</p>
+
+### `last 30 days`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&bg_color=090909&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true&custom_title=30%20Days%20of%20GitHub%20Activity" width="100%" alt="GitHub activity over the last 30 days" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=patatoish&theme=transparent&hide_border=true&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak" />
+</p>
+
+### `contributions`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk
