@@ -25,52 +25,51 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 - ⚙️ Interested in developer tools, backend systems, and AI.
 - 🦀 Exploring Rust and systems programming.
 - 🌐 Building web applications and experimenting with different stacks.
-- 🤝 Interested in meaningful open-source contributions.
+- 🤝 Always looking for interesting open-source projects to contribute to.
 - 🐈 Probably getting distracted by a cat.
 
 > I like figuring out how things work, then building my own version.
 
 ### `tech stack`
 
-**Languages & technologies I work with**
+**Languages & technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,kotlin,go,html,css&theme=dark" alt="Rust, TypeScript, JavaScript, Python, Kotlin, Go, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,kotlin,go,html,css&theme=dark" alt="Programming languages and web technologies" />
 </p>
 
 **Tools & environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs,sqlite&theme=dark" alt="Git, GitHub, VS Code, Linux, Node.js, React, Next.js and SQLite" />
-</p>
-
-### `featured projects`
-
-| Project | What it is |
-|---|---|
-| [GeoSurfaceTester](https://github.com/patatoish/GeoSurfaceTester) | A location-related Android project |
-| [WhereAmI](https://github.com/patatoish/WhereAmI) | An Android location project |
-| [Crimson](https://github.com/patatoish/Crimson) | A Roblox bootstrap focused on performance and low input latency |
-| [BitlockerTimer](https://github.com/patatoish/BitlockerTimer) | A lightweight BitLocker encryption/decryption tracker |
-| [freedm](https://github.com/patatoish/freedm) | A VS Code-based project |
-
-<p align="center">
-  <a href="https://github.com/patatoish?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20all%20repositories-181818?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs,sqlite&theme=dark" alt="Developer tools and technologies" />
 </p>
 
 ### `github stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patatoish&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patatoish&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatoish&layout=compact&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" alt="Most used programming languages" />
+</p>
+
+### `open source contributions`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patatoish&show=prs_merged,prs_merged_percentage,reviews&hide=contribs,issues&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&custom_title=Pull%20Requests%20%26%20Reviews" alt="Pull requests merged and code reviews" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/patatoish?tab=pulls">
+    <img src="https://img.shields.io/badge/My%20Pull%20Requests-181818?style=for-the-badge&logo=github&logoColor=white" alt="My pull requests" />
+  </a>
+  <a href="https://github.com/patatoish?tab=issues">
+    <img src="https://img.shields.io/badge/My%20Issues-181818?style=for-the-badge&logo=github&logoColor=white" alt="My issues" />
+  </a>
 </p>
 
 ### `last 30 days`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&bg_color=090909&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true&custom_title=30%20Days%20of%20GitHub%20Activity" width="100%" alt="GitHub activity over the last 30 days" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&bg_color=090909&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true&hide_title=true" width="100%" alt="GitHub activity over the last 30 days" />
 </p>
 
 <p align="center">
@@ -80,4 +79,15 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 ### `contributions`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution graph animation" />
+</p>
+
+---
+
+<p align="center">
+  <sub>built with curiosity · powered by caffeine · occasionally distracted by cats</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/patatoish">github.com/patatoish</a>
+</p>
