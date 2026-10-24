@@ -35,13 +35,13 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 **Languages & technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,kotlin,go,html,css&theme=dark" alt="Programming languages and web technologies" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,kotlin,go,html,css&theme=dark" alt="Rust, TypeScript, JavaScript, Python, Kotlin, Go, HTML and CSS" />
 </p>
 
 **Tools & environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs,sqlite&theme=dark" alt="Developer tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react,nextjs,sqlite&theme=dark" alt="Git, GitHub, VS Code, Linux, Node.js, React, Next.js and SQLite" />
 </p>
 
 ### `github stats`
@@ -51,25 +51,40 @@ I'm Boran, a developer interested in building useful software, exploring new tec
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatoish&layout=compact&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&langs_count=8" alt="Most used programming languages" />
 </p>
 
-### `open source contributions`
+### `open source // contribution log`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patatoish&show=prs_merged,prs_merged_percentage,reviews&hide=contribs,issues&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&custom_title=Pull%20Requests%20%26%20Reviews" alt="Pull requests merged and code reviews" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patatoish&show=prs_merged,prs_merged_percentage,reviews&hide=issues,contribs&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&custom_title=Open%20Source%20Impact" width="100%" alt="Open source contribution statistics" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/patatoish?tab=pulls">
-    <img src="https://img.shields.io/badge/My%20Pull%20Requests-181818?style=for-the-badge&logo=github&logoColor=white" alt="My pull requests" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Apatatoish">
+    <img src="https://img.shields.io/badge/AUTHORED%20PRs-181818?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests authored" />
   </a>
-  <a href="https://github.com/patatoish?tab=issues">
-    <img src="https://img.shields.io/badge/My%20Issues-181818?style=for-the-badge&logo=github&logoColor=white" alt="My issues" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Apatatoish+is%3Amerged">
+    <img src="https://img.shields.io/badge/MERGED%20PRs-242424?style=for-the-badge&logo=github&logoColor=white" alt="Merged pull requests" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Apatatoish">
+    <img src="https://img.shields.io/badge/CODE%20REVIEWS-181818?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests reviewed" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Every contribution counts. Every review teaches something. Every merge moves a project forward.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/patatoish?tab=activity">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20ACTIVITY-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF&logo=github&logoColor=000000" alt="View GitHub activity" />
   </a>
 </p>
 
 ### `last 30 days`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&bg_color=090909&color=AAAAAA&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=true&hide_title=true" width="100%" alt="GitHub activity over the last 30 days" />
+  <a href="https://github.com/patatoish">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&theme=github-compact&hide_border=true&hide_title=true" width="100%" alt="GitHub activity over the last 30 days" />
+  </a>
 </p>
 
 <p align="center">
