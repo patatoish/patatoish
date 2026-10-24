@@ -82,7 +82,11 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 last 30 days
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&theme=github-compact&hide_border=true&hide_title=true" width="100%" alt=" " />
+  <img
+    src="./activity-graph.svg"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </p>
 
 <p align="center">
