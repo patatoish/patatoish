@@ -82,11 +82,13 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 last 30 days
 
 <p align="center">
-  <img
-    src="./activity-graph.svg"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <i>Tracking commits, pull requests, and open-source contributions.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/patatoish?tab=activity">
+    <img src="./activity-graph.svg" width="100%" alt="GitHub activity graph for the last 30 days" />
+  </a>
 </p>
 
 <p align="center">
