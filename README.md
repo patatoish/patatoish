@@ -79,8 +79,6 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 
 ### `last 30 days`
 
-last 30 days
-
 <p align="center">
   <i>Tracking commits, pull requests, and open-source contributions.</i>
 </p>
