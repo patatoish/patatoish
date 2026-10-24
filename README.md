@@ -86,12 +86,6 @@ last 30 days
 </p>
 
 <p align="center">
-  <a href="https://github.com/patatoish?tab=activity">
-    <img src="./activity-graph.svg" width="100%" alt="GitHub activity graph for the last 30 days" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=patatoish&theme=transparent&hide_border=true&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" alt="GitHub contribution streak" />
 </p>
 
