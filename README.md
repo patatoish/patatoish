@@ -79,10 +79,10 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 
 ### `last 30 days`
 
+last 30 days
+
 <p align="center">
-  <a href="https://github.com/patatoish">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&theme=github-compact&hide_border=true&hide_title=true" width="100%" alt="GitHub activity over the last 30 days" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patatoish&days=30&theme=github-compact&hide_border=true&hide_title=true" width="100%" alt=" " />
 </p>
 
 <p align="center">
