@@ -58,13 +58,13 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 </p>
 
 <p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Apatatoish">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Apatatoish" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/AUTHORED%20PRs-181818?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests authored" />
-  </a>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Apatatoish+is%3Amerged">
+  </a>&nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Apatatoish+is%3Amerged" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/MERGED%20PRs-242424?style=for-the-badge&logo=github&logoColor=white" alt="Merged pull requests" />
-  </a>
-  <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Apatatoish">
+  </a>&nbsp;
+  <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Apatatoish" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/CODE%20REVIEWS-181818?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests reviewed" />
   </a>
 </p>
