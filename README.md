@@ -54,7 +54,7 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 ### `open source // contribution log`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patatoish&show=prs_merged,prs_merged_percentage,reviews&hide=issues,contribs&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&custom_title=Open%20Source%20Impact" width="100%" alt="Open source contribution statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patatoish&show=prs_merged,prs_merged_percentage,reviews&hide=issues,contribs&show_icons=true&hide_border=true&bg_color=090909&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&custom_title=Open%20Source%20Impact" width="70%" alt="Open source contribution statistics" />
 </p>
 
 <p align="center">
@@ -67,10 +67,6 @@ I'm Boran, a developer interested in building useful software, exploring new tec
   <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Apatatoish">
     <img src="https://img.shields.io/badge/CODE%20REVIEWS-181818?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests reviewed" />
   </a>
-</p>
-
-<p align="center">
-  <i>Every contribution counts. Every review teaches something. Every merge moves a project forward.</i>
 </p>
 
 <p align="center">
