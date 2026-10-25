@@ -1,7 +1,7 @@
 # `patatoish` — Boran
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=boran&fontSize=75&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&color=0:090909,100:242424" width="100%" alt="Boran — developer profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=boran%20%E2%99%A5%20azra&fontSize=65&fontColor=ffffff&stroke=FF4D6D&strokeWidth=1&animation=fadeIn&color=0:090909,50:242424,100:3A101A" width="100%" alt="Boran heart Azra banner" />
 </p>
 
 <p align="center">
