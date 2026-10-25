@@ -1,7 +1,7 @@
 # `patatoish` — Boran
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=boran&fontSize=55&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&color=0:090909,100:242424" width="49%" alt="Boran's dark blob" /><img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=%E2%99%A5%20azra&fontSize=55&fontColor=ffffff&stroke=FF4D6D&strokeWidth=1&animation=fadeIn&color=0:19090D,50:3A101A,100:7A1936" width="49%" alt="Azra's red blob" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=boran&fontSize=55&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&color=0:090909,100:242424" width="100%" alt="Boran's dark blob" />
 </p>
 
 <p align="center">
@@ -88,6 +88,10 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=%E2%99%A5%20azra&fontSize=55&fontColor=ffffff&stroke=FF4D6D&strokeWidth=1&animation=fadeIn&color=0:19090D,50:3A101A,100:7A1936" width="70%" alt="Azra's red blob" />
+</p>
 
 <p align="center">
   <sub>built with curiosity · powered by caffeine · occasionally distracted by cats</sub>
