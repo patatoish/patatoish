@@ -20,7 +20,6 @@ I'm Boran, a developer interested in building useful software, exploring new tec
 - 🦀 Exploring Rust and systems programming.
 - 🌐 Building web applications and experimenting with different stacks.
 - 🤝 Always looking for interesting open-source projects to contribute to.
-- 🐈 Probably getting distracted by a cat.
 
 > I like figuring out how things work, then building my own version.
 
