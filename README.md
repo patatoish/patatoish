@@ -1,13 +1,11 @@
 # `patatoish` — Boran
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=boran%20%E2%99%A5%20azra&fontSize=65&fontColor=ffffff&stroke=FF4D6D&strokeWidth=1&animation=fadeIn&color=0:090909,50:242424,100:3A101A" width="100%" alt="Boran heart Azra banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=boran&fontSize=65&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&color=0:090909,100:242424" width="100%" alt="Boran's dark banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/patatoish">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=building+things+that+should+exist;open-source+%7C+developer+tools+%7C+backend;learning%2C+building%2C+breaking%2C+repeating" alt="Typing animation" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=%E2%99%A5%20azra&fontSize=45&fontColor=ffffff&stroke=FF4D6D&strokeWidth=1&animation=fadeIn&color=0:19090D,50:3A101A,100:7A1936" width="75%" alt="Azra's red banner" />
 </p>
 
 <p align="center">
